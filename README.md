@@ -6,11 +6,11 @@ these items as per categories. If the user likes a product he may add it to his 
 and pay cash on delivery.Admin can add their products according to their categories.Also admin can change data of products
 like updating price of cakes,updating images, details, change category etc., and delete entire data of cakes.
 
-Technologies Used :-
-# Spring boot
-# Data Jpa
-# MySQL
-# Thymeleaf
-# Eclipse
-# DevTools
-# Lombok
+# Technologies Used :-
+* Spring boot
+* Data Jpa
+* MySQL
+* Thymeleaf
+* Eclipse
+* DevTools
+* Lombok
